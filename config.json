@@ -1,0 +1,6 @@
+{
+  "driver": "/Program Files (x86)/chromedriver",
+  "url": "https://www.facebook.com/",
+  "username": "username@mail.com",
+  "password": "password"
+}
