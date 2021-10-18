@@ -1,7 +1,6 @@
 from selenium import webdriver
-import time
 from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import *
+
 
 class Fb_bot:
     def __init__(self,driver,url,username,password):
